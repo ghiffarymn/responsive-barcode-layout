@@ -11,3 +11,9 @@
     font-family: "Outfit", sans-serif;
     font-weight: 700;
 }
+
+@media (max-width: 380px) {
+    .responsive-container {
+        background-color: #D5E1EF;
+    }
+}
